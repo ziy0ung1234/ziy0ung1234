@@ -1,1 +1,7 @@
-# 안녕하세요 백엔드 개발자 <span style="color:green">한지영</span>입니다.
+# 🙇🏻‍♀️ Hello I'm junior Backend dev JIYOUNG HAN
+
+### While working as a Visual Merchandiser before a developer, I had a desire to challenge development while working in an inefficient environment because the product code required for work could not be managed due to a problem with the in-house program. So this opportunity led me to become a backend developer.
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ziy0ung1234)](https://github.com/anuraghazra/github-readme-stats)
